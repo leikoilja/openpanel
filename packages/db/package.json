@@ -1,6 +1,6 @@
 {
   "name": "@openpanel/db",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "main": "index.ts",
   "scripts": {
     "codegen": "pnpm with-env prisma generate",
